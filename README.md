@@ -12,6 +12,8 @@ En övning på API-anrop med ett tillhörande användargränssnitt i form av ett
 
 ### Bilderna som användes i exemplet
 
+Samtliga bilder kommer från [unsplash.com](https://unsplash.com/)
+
 <div style="display:flex;gap:1rem;">
     <img src="https://plus.unsplash.com/premium_photo-1675813861350-1d4b74b1e73c" alt="abstract painting" width="100px">
     <img src="https://plus.unsplash.com/premium_photo-1675813861508-8fd0050f7aef" alt="abstract painting" width="100px">
