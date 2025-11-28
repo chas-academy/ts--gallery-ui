@@ -55,6 +55,8 @@ En övning på API-anrop med ett tillhörande användargränssnitt i form av ett
   }
   ```
 
+- Lägg till objekt (`Painter`) i arrayen direkt i `db.json`
+  - Alternativt, ändra UI:t så att man även kan lägga till kostnär
 - Skapa nya API-anrop för att hämta alla konstnärer
 - Skapa metoder i `store.ts` som använder API-anropet
   - Hämta inspiration från existerande metoder för att hämta och skapa konstverk
