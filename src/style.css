@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto", sans-serif;
+}
+
+@layer utilities {
+  .mask-edges {
+    mask: linear-gradient(
+      to top,
+      transparent 0%,
+      black 50px,
+      black calc(100% - 50px),
+      transparent 100%
+    );
+  }
+}
